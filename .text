@@ -1,1 +1,4 @@
-vless://e6e2b610-3475-42d5-bf3f-979bb8901d9f@ir.mohmdmusic.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws#Asqarr
+vless://dc2a89cb-50b6-4edb-e148-f8b0f1379713@digikala.mohmdmusic.ir:40363?security=&type=tcp&encryption=none#Mci%20&%20Irancell%20%F0%9F%87%B8%F0%9F%87%AA%20tcp
+vless://09840b9f-bfc4-4ae1-bb6f-05e939cf37a6@rey.mohmdmusic.ir:443?security=tls&type=grpc&encryption=none#Origin%20Rules%20grpc%20%F0%9F%87%B8%F0%9F%87%AA
+vless://bdb8d4aa-5cd3-4af4-844b-89108464e9fe@ir.mohmdmusic.ir:443?security=tls&type=ws&path=/?ed%3D2048&encryption=none#Origin%20Rules%20ws%20%F0%9F%87%B8%F0%9F%87%AA
+vless://f10f17f6-68a9-4b36-9fac-c0180e9e6fb7@zula.ir:2087?security=tls&sni=cF.MOHMDMUsiC.IR.&alpn=h2,http/1.1&fp=chrome&type=ws&path=/vless-ws/?ed%3D2048&host=cf.mohmdmusic.ir.&encryption=none#cdn%20ir%20%F0%9F%87%B8%F0%9F%87%AA
